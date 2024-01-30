@@ -50,3 +50,6 @@ All the scripts work in a similar manner:
    - If running the `direction_detector`, the output will appear on the screen (samples are available in the `direction_detection_samples` folder).
    - If running the `measure_thickness`, the output will appear in the terminal.
    - If running any of the helping modules, the output will be displayed as a plot figure.
+
+## Used Resources
+https://medium.com/@kirtish1/underwater-image-color-correction-3ab74af627c7
