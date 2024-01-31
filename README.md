@@ -8,7 +8,7 @@ The ROV Underwater Image Enhancer project provides the following features:
 3. **Thickness Measurement**: Measures the thickness of objects in underwater images.
 4. **Helping Modules**: Includes modules like Channel Analyzer and Histogram Analyzer for testing and analysis purposes.
 
-The project is built using Object-Oriented Design to make it more organized and structured.
+The project is built using Object-Oriented Design to make it more organized and structured. The following is the guide for installation and usage
 
 ## Installation
 
