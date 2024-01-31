@@ -1,7 +1,11 @@
+"""
+   Name : Abdelrahman Amr Abdelrahman El Sayed 
+"""
 import matplotlib.pyplot as plt
 from PIL import Image
 import numpy as np
 
+# helping module to visualize the green , red , blue channel (helped me to adjust parameters)
 class ChannelAnalyzer:
     def __init__(self, image_path):
         self.image = Image.open(image_path)
